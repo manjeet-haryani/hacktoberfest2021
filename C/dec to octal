@@ -13,7 +13,6 @@ int main(void)
 
 	return 0;
 }
-
 char *decimalToOctal(unsigned long decimal)
 {
 	char *octal = malloc(23);
